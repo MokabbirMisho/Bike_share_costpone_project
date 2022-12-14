@@ -1,0 +1,33 @@
+This analytic case study is a Capstome project requirement for the Google Data Analytics Professional Certificate. The case study uses information from a bikeshare company about the trips of its users across a year (january 2021 - December 2021). Motivate International Inc. has made this data available under this license. here The datasets were extracted from this website. dataset
+
+**Scenario**
+The marketing team will develop marketing plans that would persuade casual users to become yearly subscribers. But to do that, the marketing analyst team must have a deeper comprehension of the distinctions between annual members and casual riders.
+
+Three questions will guide the future marketing campaign:
+
+1.How do annual members and casual riders use Cyclistic bikes differently?
+
+2.Why would casual riders buy Cyclistic annual memberships?
+
+3.How can Cyclistic use digital media to influence casual riders to become members?
+
+I have been asked to find the answer for How do annual members and casual riders use Cyclistic bikes differently?
+
+**Ask**
+I have been asked to find the answer for How do annual members and casual riders use Cyclistic bikes differently?
+
+My key stakeholders :
+
+Director of marketing
+Cyclistic Executive team
+
+**Prepare**
+
+12-month historical trip data (from January 2021 to December 2021) has been used to analyze and identify trends.
+
+File Type : csv format
+Total Data size : 985 MB
+
+The data set is credible, and the data is complete and accurate for the time period selected.
+
+For the purpose of this analysis, datasets have been downloaded. I used copies of the dataset instead than the original, which was kept in a secure location.
